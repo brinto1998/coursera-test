@@ -14,20 +14,12 @@ h2 {
 
 }
 div#container {
-<<<<<<< HEAD
-display: block;
-=======
  display:block;
->>>>>>> fbea0ce73f7496295a7f5ac10821e234c89993fe
  background-color: #989898;
   position: relative;
   top: 10px;
   border: 1px solid black;
-<<<<<<< HEAD
-  width: 95%;
-=======
   width: 90%;
->>>>>>> fbea0ce73f7496295a7f5ac10821e234c89993fe
   margin-right: 15px;
   margin-left: 15px;
   margin-top:20px;
